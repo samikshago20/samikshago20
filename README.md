@@ -8,7 +8,7 @@
   </a>
 </h1>
 <br/>
-<h1 align="center">About Me</h1>
+<h2 align="center">About Me</h2>
 <h4 align="center">I am <strong>Samiksha Goud</strong> pursuing bachelors in <strong>Electronics and Telematics Engineering</strong> from Hyderabad. Currently I am focusing on <strong>Python</strong> and <strong>working on some of the projects </strong></h4><br>
 <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/samikshago20/samikshago20/blob/main/github.gif"></a>
 <br/>
