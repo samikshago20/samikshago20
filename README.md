@@ -40,7 +40,7 @@
     <a href="https://github.com/samikshago20">
     <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
   </a>
-  <a href="mailto:samiksha20@gmail.com"
+  <a href="mailto:samikshagoud20@gmail.com"
     <code>
       <img height="30" width="100" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" 
     </code>
