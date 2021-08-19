@@ -34,14 +34,14 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/samiksha-g-b47755170/ target="_blank">
-    <code><img height="60" width="60" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></code>
+    <code><img height="60" width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></code>
   </a>
     <a href="https://github.com/samikshago20">
     <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
   </a>
   <a href="mailto:samiksha20@gmail.com"
     <code>
-      <img height="60" width="60" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" 
+      <img height="60" width="80" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" 
     </code>
   </a>
 </p>
