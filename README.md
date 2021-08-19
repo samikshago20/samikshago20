@@ -18,38 +18,11 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Tailwind-CSS-removebg-preview-removebg-preview.png"></code>
 
  #
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/google-cloud.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/tensorflow-removebg-preview.png"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/premium-icon/icons/svg/720/720269.svg"></code>
-<code><img height="40" width="40" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/g-suite.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<br/>
 
-#
-<details close="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>Github Stats : </strong>
-</summary>
-<br>
-  
-<p align="center">
-<a href="https://github.com/PulkitSinghDev">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=PulkitSinghDev&show_icons=true&theme=tokyonight" />
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitSinghDev&count_private=true&theme=tokyonight" />
-</a>
-</p>
-</details>
-<br>
 
 #
 
